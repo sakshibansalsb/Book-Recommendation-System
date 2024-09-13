@@ -7,9 +7,9 @@ We've three dataset -
 • Ratings data - (User-ID, ISBN, Book-Rating)   
 
 Dataset link:
-Books.csv: https://drive.google.com/uc?export=download&id=1jlbf103aeTHKUZNdJ2rQd9WXw6hbCqSQ
-Ratings.csv: https://drive.google.com/uc?export=download&id=1v4R2uXsoVTfUowMMNhuiMnfdshssL7sv
-Users.csv: https://drive.google.com/uc?export=download&id=1Qn0L1vKN5feZxQU2PzNHG9uUr8fUaGh
+Books.csv: https://drive.google.com/uc?export=download&id=1jlbf103aeTHKUZNdJ2rQd9WXw6hbCqSQ <br>
+Ratings.csv: https://drive.google.com/uc?export=download&id=1v4R2uXsoVTfUowMMNhuiMnfdshssL7sv<br>
+Users.csv: https://drive.google.com/uc?export=download&id=1Qn0L1vKN5feZxQU2PzNHG9uUr8fUaGh<br>
 
 ### Summary of Project
 
