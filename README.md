@@ -8,8 +8,7 @@ This project implements a book recommendation system using three datasets: Books
 - **Popularity-based Recommendations**: Recommends top-rated books with a minimum number of ratings.
 - **Collaborative Filtering**: Uses a memory-based approach for user and item similarity to offer personalized recommendations.
 - **Recommendation Function**: Recommends similar books based on user input.
-![Flow]()
-
+  
 ## Architecture
 <div align="center">
   <img src="https://github.com/user-attachments/assets/18d04e6b-e607-44d5-8f44-7d4d3e09e171" alt="Flow Chart" width="700" height="450">
