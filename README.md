@@ -10,14 +10,13 @@ This project implements a book recommendation system using three datasets: Books
 - **Recommendation Function**: Recommends similar books based on user input.
   
 ## Architecture
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/18d04e6b-e607-44d5-8f44-7d4d3e09e171" alt="Flow Chart" width="700" height="450">
-</div>
 1. **Data Preparation**: Cleans and merges datasets (Books, Users, Ratings) for effective recommendation generation.
 2. **Popularity-based Recommendations**: Lists top-rated books that have been rated by more than 250 users.
 3. **Collaborative Filtering**: Uses cosine similarity to compute similarities between books and users.
 4. **Recommendation Function**: Provides book recommendations based on user-input book titles.
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18d04e6b-e607-44d5-8f44-7d4d3e09e171" alt="Flow Chart" width="700" height="450">
+</div>
 ## Setup Instructions
 1. Download the datasets:
    - [Books.csv](https://drive.google.com/uc?export=download&id=1jlbf103aeTHKUZNdJ2rQd9WXw6hbCqSQ)
