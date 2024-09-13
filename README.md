@@ -22,9 +22,7 @@ Users.csv: https://drive.google.com/uc?export=download&id=1Qn0L1vKN5feZxQU2PzNHG
 - The last step is to create a function recommend which will take the book name as input from the user and it will return 4 similar books with the author.
 
 ### Reference images  
-
-![Screenshot (81)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/1b8c922b-e119-49e3-958b-983fb24aea0e)
-
-![Screenshot (82)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/076c8fcd-6e21-4a4c-a4d6-cc8f5501cf8a)
-
-![Screenshot (83)](https://github.com/shruti-2412/Book-Recommendation-System/assets/99483160/4356a401-e89a-49c0-a32e-481e1b5df56e)
+![1st](https://github.com/user-attachments/assets/0d35f734-b630-4f8d-949e-4740b0a3da6c)
+![2nd](https://github.com/user-attachments/assets/bc0a5880-cfdf-40e3-bf52-8f3c4593344d)
+![3rd](https://github.com/user-attachments/assets/bf917af8-3321-4179-b64e-97385ff22d47)
+![4th](https://github.com/user-attachments/assets/ee4a730f-30b9-47e4-8b15-7b44dcb54624)
