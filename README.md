@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Book Advisory - (Book Recommendation System)
 
 ## Project Overview
 This project implements a book recommendation system using three datasets: Books, Users, and Ratings. The system offers both popularity-based recommendations and collaborative filtering techniques, helping users discover books they are likely to enjoy based on their preferences or the preferences of others with similar tastes.
