@@ -22,7 +22,15 @@ Users.csv: https://drive.google.com/uc?export=download&id=1Qn0L1vKN5feZxQU2PzNHG
 - The last step is to create a function recommend which will take the book name as input from the user and it will return 4 similar books with the author.
 
 ### Reference images  
-![1st](https://github.com/user-attachments/assets/0d35f734-b630-4f8d-949e-4740b0a3da6c)
-![2nd](https://github.com/user-attachments/assets/bc0a5880-cfdf-40e3-bf52-8f3c4593344d)
-![3rd](https://github.com/user-attachments/assets/bf917af8-3321-4179-b64e-97385ff22d47)
-![4th](https://github.com/user-attachments/assets/ee4a730f-30b9-47e4-8b15-7b44dcb54624)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d35f734-b630-4f8d-949e-4740b0a3da6c" alt="Home" width="400" height="700">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc0a5880-cfdf-40e3-bf52-8f3c4593344d" alt="Top books" width="400" height="700">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bf917af8-3321-4179-b64e-97385ff22d47" alt="User Query" width="400" height="700">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ee4a730f-30b9-47e4-8b15-7b44dcb54624" alt="Result" width="400" height="700">
+</div>
